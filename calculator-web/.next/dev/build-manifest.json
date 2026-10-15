@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0e200_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_3f059f35._.js",
+    "static/chunks/0e200_next_dist_compiled_react-dom_f170262c._.js",
+    "static/chunks/0e200_next_dist_compiled_react-server-dom-turbopack_f9bf44a9._.js",
+    "static/chunks/0e200_next_dist_compiled_next-devtools_index_bcf353e9.js",
+    "static/chunks/0e200_next_dist_compiled_d4d7591f._.js",
+    "static/chunks/0e200_next_dist_client_ad63197f._.js",
+    "static/chunks/0e200_next_dist_26c8366c._.js",
+    "static/chunks/e1c07_@swc_helpers_cjs_35749ccc._.js",
+    "static/chunks/apps_calculator_calculator-web_a0ff3932._.js",
+    "static/chunks/turbopack-apps_calculator_calculator-web_07547910._.js"
+  ]
+}
